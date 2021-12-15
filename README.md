@@ -1,5 +1,5 @@
 ### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = CODER 👨🏻‍💻 + STUDENT 👨🏻‍🎓
-### Hi, I'm THANH LA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THÀNH IT][website] = Software Engineer + Youtuber 🌻 
+### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = Coder 👨🏻‍💻 + Student 🌻 
 
 
 - 🔭 Passion in something ... (secret😊)
