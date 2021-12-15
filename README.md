@@ -1,4 +1,4 @@
-### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = Coder + Student 🌻 
+### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = Coder + Student ![image](https://user-images.githubusercontent.com/91443189/146137211-5bf77b73-b370-42e5-973a-79596af5c0ed.png) 
 
 
 - 🔭 Passion in something ... (secret😊)
