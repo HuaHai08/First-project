@@ -6,5 +6,5 @@
 - ⭐: Play football, badminton, ... and code
 
 ### :zap: GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuaHai08&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuaHai08&theme=cobalt)
 [website]: https://gr7ec.csb.app/
