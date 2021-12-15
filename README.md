@@ -1,4 +1,4 @@
-### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = CODER 👨🏻‍💻 + STUDENT 👨🏻‍🎓 
+### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = CODER 👨🏻‍💻 + STUDENT 👨🏻‍🎓
 
 
 - 🔭 Passion in something ... (secret😊)
@@ -6,4 +6,5 @@
 - ⭐: Play football, badminton, ... and code
 
 ### :zap: GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuaHai08&theme=radical)
 [website]: https://gr7ec.csb.app/
