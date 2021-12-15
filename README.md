@@ -1,5 +1,4 @@
-### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = CODER 👨🏻‍💻 + STUDENT 👨🏻‍🎓
-### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = Coder 👨🏻‍💻 + Student 🌻 
+### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = Coder + Student 🌻 
 
 
 - 🔭 Passion in something ... (secret😊)
@@ -21,7 +20,10 @@
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" /> 
-
+<img align="left" alt="HTML" width="26px" src="https://image.flaticon.com/icons/png/512/888/888859.png" /> 
+<img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" /> 
+<img align="left" alt="Pascal" width="26px" src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" />
+  
 ---
 
 ### 📫 Contact me via:
