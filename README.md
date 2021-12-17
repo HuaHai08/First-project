@@ -28,6 +28,6 @@
 
 ### 📫 Contact me via:
 - EMAIL: huahai228@gmail.com
-- YOTUBE: Hứa Hải Coder
+- YOUTUBE: Hứa Hải Coder
 
 [website]: https://gr7ec.csb.app/
