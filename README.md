@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=HuaHai08&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaHai08&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="https://github.com/ThanhLa1802/ThanhLa1802/raw/main/.github/assets/coding-freak.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></td>
 </tr>
 <table>
 
