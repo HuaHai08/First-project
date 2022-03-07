@@ -22,6 +22,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" /> 
 <img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /> 
 <img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" /> 
+<img align="left" alt="JS" width="26px" src="https://codegame.techmaster.vn/img/javascript-2752148-2284965.png" />
 <img align="left" alt="Pascal" width="26px" src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" />
   
 ---
