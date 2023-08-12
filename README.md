@@ -1,4 +1,4 @@
-### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HỨA HẢI CODER][website] = Coder + HuMaDa-er
+### Hi, I'm HUA HAI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> = Coder + HuMaDa-er
 
 
 - 🔭 Passion in something ... (secret😊)
