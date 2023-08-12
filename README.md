@@ -19,6 +19,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" /> 
 <img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /> 
 <img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" /> 
@@ -29,6 +30,5 @@
 
 ### 📫 Contact me via:
 - EMAIL: huahai228@gmail.com
-- YOUTUBE: Hứa Hải Coder
 
-[website]: https://gr7ec.csb.app/
+[website]: https://www.facebook.com/huahai.08/
