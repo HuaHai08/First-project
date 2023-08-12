@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
+- 💪 2023 Goals: Go to HuMaDa
 - ⭐: Play football, badminton, ... and code
 
 ### :zap: GitHub Stats
